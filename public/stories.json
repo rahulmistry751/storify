@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "username": "aurora_lens",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "images": [
+      "https://picsum.photos/seed/aurora1/400/700",
+      "https://picsum.photos/seed/aurora2/400/700",
+      "https://picsum.photos/seed/aurora3/400/700"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "drift_wade",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "images": [
+      "https://picsum.photos/seed/drift1/400/700",
+      "https://picsum.photos/seed/drift2/400/700"
+    ]
+  },
+  {
+    "id": 3,
+    "username": "nova_skye",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "images": [
+      "https://picsum.photos/seed/nova1/400/700",
+      "https://picsum.photos/seed/nova2/400/700",
+      "https://picsum.photos/seed/nova3/400/700",
+      "https://picsum.photos/seed/nova4/400/700"
+    ]
+  },
+  {
+    "id": 4,
+    "username": "theo_hills",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "images": [
+      "https://picsum.photos/seed/theo1/400/700",
+      "https://picsum.photos/seed/theo2/400/700",
+      "https://picsum.photos/seed/theo3/400/700"
+    ]
+  },
+  {
+    "id": 5,
+    "username": "luna_coast",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "images": [
+      "https://picsum.photos/seed/luna1/400/700",
+      "https://picsum.photos/seed/luna2/400/700"
+    ]
+  },
+  {
+    "id": 6,
+    "username": "finn_rays",
+    "avatar": "https://i.pravatar.cc/150?img=60",
+    "images": [
+      "https://picsum.photos/seed/finn1/400/700",
+      "https://picsum.photos/seed/finn2/400/700",
+      "https://picsum.photos/seed/finn3/400/700"
+    ]
+  }
+]
